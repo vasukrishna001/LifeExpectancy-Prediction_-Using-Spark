@@ -1,6 +1,6 @@
 # Life Expectancy Prediction with Distributed Data Processing and Streamlit Web Interface
 
-This project predicts life expectancy based on various socio-economic and health-related factors using Apache Spark's distributed data processing capabilities. It leverages the PySpark library for preprocessing and model training, and integrates a Streamlit web-based user interface (UI) for real-time predictions.
+This project predicts life expectancy based on various socio-economic and health-related factors using Apache Spark's distributed data processing capabilities. It leverages the PySpark library for preprocessing and model training, and integrates a Streamlit web-based user interface (UI) for real-time predictions.(file named as app.py, model.py, output.csv, random_forest.pkl, a video mp4 which describes on how all these files work)
 
 ## Key Objectives:
 - Applied distributed data preprocessing techniques using PySpark.
